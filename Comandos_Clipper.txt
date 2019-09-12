@@ -1,0 +1,8 @@
+pasta onde estão os fontes:
+C:\hb30\tests
+
+PROMPT>hbmk2 <fonte_clipper>.prg
+
+hbmk2 -debug -b <nome do fonte>
+
+colocar altd() no fonte
