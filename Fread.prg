@@ -1,3 +1,5 @@
+//Lê caracteres de arquivo já existente para um variável já existente e inicializada
+
 function Main()
 
 //sintaxe da function fread(<nHandle>,@<cBufferar>,<nBytes>)
